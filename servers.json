@@ -51,6 +51,10 @@
     {
       "name": "Jayden's Server",
       "address": "https://ani.jaydenha.uk"
+    },
+    {
+      "name": "Clint's Server",
+      "address": "https://anisette-v3-server-qn0k.onrender.com"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
